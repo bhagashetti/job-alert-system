@@ -1,0 +1,8 @@
+bootstrap
+function.zip
+*.zip
+*.log
+.env
+.vscode/
+.idea/
+.DS_Store
