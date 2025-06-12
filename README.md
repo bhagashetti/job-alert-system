@@ -16,4 +16,3 @@ It retrieves jobs from [RemoteOK](https://remoteok.com/) and emails job openings
 
 ---
 
-## 🧠 Architecture
